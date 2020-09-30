@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Agra Fort – A flying visit to Agra"
-img: nevada.jpg # Add image post (optional)
+img: agra.jpg # Add image post (optional)
 date: 2017-07-11 12:50:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Nevada]
+tag: [Travel, AgraFort]
 ---
 Taj Mahal and Agra Fort are located in the ancient city of Agra in UttarPradesh, India. With the construction of Taj Express way, it has become an easy drive from Delhi. Situated at a distance of about 230 kms from Delhi, it takes about 3 hrs to reach Agra
 Taking advantage of a long weekend, we left Delhi at around 7.00 AM for Agra for an overnight trip. En route we stopped at eatery joints all built in a huge complex – there are variety of o ptions such as Indian food at Bikano, Pizza at Dominoes, Indian food at Dhabha, continental at Starbucks or Subway. We took an hour break and then embarked on the journey again. The road is fantastic and it really gives a thrill to hit the paddle at 130 km/hr.We reached Agra, Radisson Blu at around 1.00 PM and quickly checked into our rooms. There are lot of stay options available in this tourist centric city – there are homestays, hotels as well as UP tourism guest house.
