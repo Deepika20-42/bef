@@ -1,15 +1,43 @@
 ---
 layout: post
-title: "Texas: Grand Canyon"
+title: "An Incredible Experience In Sahara Deset"
 img: canyon.jpg # Add image post (optional)
-date: 2017-07-12 12:54:00 +0300
+date: 2020-03-08 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Texas, Canyon]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+The one night tour is for people who have a limited amount of time to see the desert and, in most cases, you’ll visit the sand dunes in Zagora. These dunes are much smaller and less impressive than Erg Chebbi, but a great option if you only have one night to spare.
+The two night tour takes you to the Erg Chebbi dunes — the amazing ones I showcased in my photo essay from my trip.
+The three night tour takes you to both Zagora and Erg Chebbi, and, well, I didn’t see too much point in spending a day going to the smaller dunes when I could see the more impressive ones!What I naively didn’t realise when I booked this tour was that the Sahara Desert is really far away.
+Like, two days of driving far away.
+Fortunately, there were plenty of fascinating stops to make along the way, all of which helped us to gain a small insight into Berber culture.
+First on the list was Ait Benhaddou, is a UNESCO World Heritage Site. It’s a traditional mud-brick city in the high Atlas Mountains that has been featured in so many famous movies. Most notably, it set the scene for both Lawrence of Arabia and Gladiator.
+Fortunately for us, we had much of the village to ourselves and we able to wander around its alleyways without much disturbance from our tourists or touts.
+After a very long and very tiring day of over 10 hours of driving we finally reached our hotel for the night, where I nearly passed out at the excitement of having wifi in the almost-desert.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+And then I actually passed out from exhaustion.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+The second day began at a horrifically early hour but today, I wasn’t complaining.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+Today, I was finally going to see the Sahara Desert!
+
+However, like the previous day, the journey wouldn’t be complete without visiting even more Berber villages. These ones were even more interesting — dry, dusty mountains, enormous gorges, spectacular waterfalls and lush green valleys, which looked wildly out of place in the middle of the desert.
+
+  
+
+> “Do not regret the passing of the camel and the caravan. The Sahara has changed, but it remains a desert without compromise, the world in its extreme. There is no place as dry and hot and hostile.” <cite> </cite>
+
+Then, finally, we reached the start of the desert.
+
+Over the next two hours, I watched the surrounding landscape get flatter and flatter, the rocks get smaller and smaller and the sand get more and more orange.
+
+At 6pm, we arrived.
+
+I was finally in the Sahara Desert and it was all I could do to keep from crying with happiness.
+It was so magical. I’d never seen sand so orange, never seen so much sand before in my life. I loved it.
+
+We were greeted by our Berber guides and taken over to meet our camels.
+
+This was the moment I had been dreading.
+
+Knowing the ridiculous things that always seem to happen to me, I knew that there was no way I’d be able to successfully ride a camel without having a near-death experience.
