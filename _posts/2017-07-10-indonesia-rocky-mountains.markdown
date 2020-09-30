@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Indonesia: Rocky mountains"
-img: indonesia.jpg # Add image post (optional)
+title: "Great Barrier Reef"
+img: view-Great-Barrier-Reef-Australia-coast.jpg # Add image post (optional)
 date: 2017-07-10 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Indonesia, Mountains]
+tag: [Travel, Reef, Mountains]
 ---
 
 Whether you're picnicking on a secret tropical island that only emerges during high-tide, walking along the sea bed in a modern-day diving helmet, or spending the night on a pontoon under a sea of stars, there is more to the Great Barrier Reef than just diving.One of the best ways to get the reef all to yourself is to take part in the Reefsleep Experience. Cruise Whitsundays takes small groups of visitors to its Reefworld platform moored on the edge of Hardy Reef for a full day of snorkelling, diving, boat and helicopter rides. And unlike all of the other day trippers who head home at about 3pm, Reefsleepers get to stay behind. In the afternoon guests can  submerge in the reef again. Come evening, it is time for a barbecue, and possibly a night dive, before everybody on board tuck themselves into their designated swags (a low tent with an in-built mattress, designed for the Australian Outback) under the star-filled sky. Reefsleep departs from Airlie Beach, Daydream Island or Hamilton Island.Great Barrier Reef Submarines lets visitors explore the beauty of the reef in a three-man mini-submarine, just 45 minutes on a fast catamaran from Cairns. Taking a mini-sub ride is less hassle than suiting up for a snorkel or dive. Two guests just jump in the mini-sub with the guide and then launch straight from the beach. In minutes you are submerged among the coral, tropical fish and sea turtles of the Great Barrier Reef.Green Island, a coral cay about half an hour offshore from Cairns, is home to the Seawalker experience, in which visitors can walk along the sea floor wearing a diving helmet. The helmet is shaped like an old-school metal diving helmet, fully enclosing your head in a bubble, and connected to the surface through an air hose. But unlike the old metal helmets, the Seawalker helmets are almost completely clear, offering unrestricted views of the amazing sea life of the reef. This is a great way for non-swimmers to experience the underwater wonders, and for those who wear glasses, because they can be left on inside the helmet.
