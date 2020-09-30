@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A Magical Experience at the Taj Mahal"
-img: tajamahal.jpg # Add image post (optional)
+img: tajmahal.jpg # Add image post (optional)
 date: 2019-02-04 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Texas, Canyon]
+tag: [Travel, TajMahal]
 ---
 Our day began with an early departure from the Agra hotel at 5:30 a.m. After two weeks of early morning wildlife drives on our India safari, it wasn’t much of a challenge. We all climbed into the bus for a quick hop to the Taj Mahal, where we boarded an open electric cart to take us to the front gate. It was still dark and we were the first in line. There were four of us ladies and our fabulous local guide, Prashant. They divided genders into lines to go through security. As other visitors began to arrive, dawn began to break and the line grew, eventually reaching farther than I could see. We waited for about 45 minutes for the gate to open. While we waited, Prashant explained the plan: take a few initial photos from a distance, but then we wanted to get to the Taj Mahal as quickly as possible to take it all in and experience something special about the main entry.
 I happened to be the first through the security line. Prashant met me at the other side, he looked at me and said, “Run, don’t worry about the group, I have them, just run!” And so I ran. There are three gates to the park and I could see others being let in. I felt a bit funny running through the grounds, but I kept trucking along. Finally, I walked through the main door, and there in all its splendor was the stunning Taj Mahal. The guard greeted me and said, “You are very lucky, you are first.” As I looked around, I realized that he was right.
