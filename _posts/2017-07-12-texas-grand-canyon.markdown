@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Incredible Experience In Sahara Deset"
-img: canyon.jpg # Add image post (optional)
+img: saharaa.jpg # Add image post (optional)
 date: 2020-03-08 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Texas, Canyon]
